@@ -1,6 +1,18 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-ferreira-1053077/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aqualung22@gmail.com)](mailto:aqualung22@gmail.com)
 
+### Formado em Gestão de Software Livre Livre Linux
+
+### Formação DevOps Pro (em curso)
+### Bootcamp Jornada DevOps com AWS - Impulso (em curso)
+
+### Skills: Docker, Kubernetes, Terraform, Git, Github Actions, Jenkins; AWS CLI, CloudFormation, S3, EC2, EKS; Digital Ocean, Linux, Python, Shell script, Windows, PHP, Apache, MySQL, CakePHP, Laravel, JQuery, Scrum, Enterprise Architect, Wordpress. 
+
+###  Curso de fluência em inglês (em curso)
+
+
+<!--
+
 ### Hi there !
 
 👨‍🎓 Free Software enthusiast. Graduated in Free Software Management @ Uni-BH - Centro Universitário de Belo Horizonte/MG/Brasil
@@ -9,7 +21,6 @@
 
 :computer: I’m interested in Devops, Infra as a code, Linux and automate things in general
 
-<!--
 - 💞️ I’m looking to 
 - 📫 How to reach me: 
 -->
