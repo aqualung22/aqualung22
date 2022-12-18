@@ -14,8 +14,8 @@
 
 ### Formado em Gestão de Software Livre Livre Linux
 
-### Formação DevOps Pro (em curso)
-### Bootcamp Jornada DevOps com AWS - Impulso (em curso)
+### Formação DevOps Pro
+### Bootcamp Jornada DevOps com AWS - Impulso
 
 ### Skills: Docker, Kubernetes, Terraform, Git, Github Actions, Jenkins; AWS CLI, CloudFormation, S3, EC2, EKS; Digital Ocean, Linux, Python, Shell script, Windows, PHP, Apache, MySQL, CakePHP, Laravel, JQuery, Scrum, Enterprise Architect, Wordpress. 
 
