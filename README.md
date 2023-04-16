@@ -3,21 +3,20 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,vim,docker,kubernetes,githubactions,jenkins,prometheus,grafana,git,github,aws&theme=light" />
+    <img src="https://skillicons.dev/icons?i=vscode,nodejs,html,css,javascript,jquery,mysql,postgres,php,laravel,wordpress,eclipse,java,maven,gradle&theme=light" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,eclipse,php,mysql,postgres,html,css,jquery,laravel,tailwind,vue,wordpress,java,maven,gradle&theme=light" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,vim,docker,kubernetes,githubactions,jenkins,prometheus,grafana,git,github,aws&theme=light" />
   </a>
 </p>
-
 ### Formado em Gestão de Software Livre Livre Linux
 
 ### Formação DevOps Pro
 ### Bootcamp Jornada DevOps com AWS - Impulso
 
-### Skills: Docker, Kubernetes, Terraform, Git, Github Actions, Jenkins; AWS CLI, CloudFormation, S3, EC2, EKS; Digital Ocean, Linux, Python, Shell script, Windows, PHP, Apache, MySQL, CakePHP, Laravel, JQuery, Scrum, Enterprise Architect, Wordpress. 
+### Skills: Docker, Kubernetes, Terraform, Git, Github Actions, Jenkins; AWS CLI, CloudFormation, S3, EC2, EKS; Digital Ocean, Linux, Shell script, Windows, PHP, Apache, MySQL, CakePHP, Laravel, JQuery, Scrum, Enterprise Architect, Wordpress. 
 
 ###  Curso de fluência em inglês (em curso)
 
